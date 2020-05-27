@@ -5,6 +5,7 @@ Dead simple webscraper in Python utilizing beautifulsoup, with integration to In
 Install required modules:
 
 ```
+requests
 bs4
 influxdb
 ```
