@@ -15,4 +15,4 @@ def get_info(url):
         print("[FATAL ERROR] MORELE")
         print(identifier)
         info = None
-        pass
+        return info

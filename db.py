@@ -1,6 +1,5 @@
 from datetime import datetime
 from influxdb import InfluxDBClient
-import xkom
 import configparser
 
 config = configparser.ConfigParser()
