@@ -11,8 +11,8 @@ with open(config["main"]["input_file"]) as f:
     content = f.readlines()
 content = [x.strip() for x in content]
 
-def track(list):
-    for url in list:
+def track(items):
+    for url in items:
         result = ""
         if "x-kom" in url:
             info = xkom.get_info(url)
