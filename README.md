@@ -1,5 +1,8 @@
 # Price tracker for morele.net and x-kom.pl
 
+** NO LONGER MAINTAINED **
+Feel free to use it as is, fork it, or do whatever you want with it.
+
 Dead simple webscraper in Python utilizing beautifulsoup, with integration to InfluxDB. My first programming project ever.
 
 Install required modules:
